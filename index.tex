@@ -31,6 +31,24 @@ The architecture of GPT models incorporates multiple transformer blocks, each em
 
 The adoption of self-attention mechanisms within GPT models heralds a significant shift in how machines process and interpret language. By evaluating the entire input sequence simultaneously, GPT models can discern nuanced patterns and relationships within the data, transcending the limitations of sequential analysis. This capability underpins the models' proficiency in a wide array of natural language processing tasks, from language translation to content generation, showcasing their versatility and the depth of understanding they can achieve.
 
+\section{Parrot Repeating: The Limitations of GPTs in Context Awareness}
+
+Generative Pre-trained Transformers (GPTs), synonymous with Large Language Models (LLMs), have been critiqued for their propensity to generate outputs that may lack genuine understanding or context, akin to a parrot's repetition. This analogy finds a parallel in the Chinese proverb suggesting that if monkeys were given typewriters, they would eventually produce Shakespeare's works—a concept explored by Richard Dawkins in his calculations regarding probability and randomness \citep{dawkins_monkeys}.
+
+While GPTs demonstrate remarkable proficiency in discerning patterns within language, their ability to grasp the underlying context or intent remains a significant challenge. This limitation is evident in numerous instances where GPTs and other LLMs yield interpretations and outputs that can be misleading or inaccurately aligned with the intended meaning. A phenomenon commonly referred to as "hallucination" within this context, where GPTs generate arbitrary outputs under the guise of producing syntactically correct sentences, underscores the issue of accuracy versus plausibility in language generation \citep{gpt_hallucination}.
+
+Furthermore, the challenge of context awareness in GPTs is compounded by limitations in memory retention. Despite attempts to augment GPTs with external memory mechanisms, the architecture inherently struggles to accommodate a vast number of tokens simultaneously. The capacity to process and retain information, dictated by the model's token limit, influences the attention mechanism's ability to generate relevant outputs. However, the integration of long-term memory retention into the current models of GPTs remains an unresolved issue, leading to observable shortcomings in their performance across various applications \citep{gpt_memory_limitations}.
+
+\subsection{Technical Challenges in Overcoming Parrot-Like Repetitions}
+
+Addressing the parrot-like repetitions and enhancing the context-aware capabilities of GPTs involve navigating several technical challenges. These include the development of more sophisticated attention mechanisms, the incorporation of external memory modules capable of supporting a broader context, and the implementation of algorithms designed to discern intent more accurately. The journey towards more contextually aware and less parrot-like GPTs necessitates ongoing research and innovation within the field of artificial intelligence and natural language processing \citep{ai_innovation_challenges}.
+
+
+
+\section{Our Use Case}
+
+
+
 \bibliographystyle{plainnat}
 \bibliography{references}
 
