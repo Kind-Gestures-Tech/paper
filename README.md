@@ -10,9 +10,9 @@ The Kind Health System project represents a cutting-edge endeavor to revolutioni
 
 Our accompanying paper delves into the theoretical underpinnings and practical applications of the Kind Health System. It outlines the strategic deployment of autonomous agents, each tasked with specific functions, ranging from data processing and medical knowledge management to user interaction and system evaluation. The paper also explores the crucial role of tracing mechanisms in maintaining system transparency and accountability, essential for fostering trust among users.
 
-![Evaluation Framework Focus Areas](images/f789fce4-69a3-4e83-aec2-e23580880be8.png)
+![System Framework Focus Areas](images/f789fce4-69a3-4e83-aec2-e23580880be8.png)
 
-*Figure: An illustrative diagram of the Evaluation Framework Focus Areas, showcasing the multifaceted approach to system assessment and improvement.*
+*Figure: An illustrative diagram of the System Framework Focus Areas, showcasing the multifaceted approach to system assessment and improvement.*
 
 ## Open to Contributions
 
