@@ -37,6 +37,6 @@ Together, we can redefine the intersection of healthcare and technology, creatin
 ## Author's
 
 Saransh Sharma 
-Joy Aksaniya
+Joy Akisaniya
 Anirudh 
 Johnson Chetty
